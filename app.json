@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "calculator",
+    "slug": "snack-68ca6f4b-0d55-464a-a524-17549e6bed85",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.tejas2003.snack68ca6f4b0d55464aa52417549e6bed85"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d8bb2c83-b2ff-4636-807c-02d5b9522ed4"
+      }
+    }
+  }
+}
